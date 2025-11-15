@@ -1,3 +1,3 @@
-print("Hello world")
+print("Hello worlds")
 
-print(12355555555555555555555555556)
+print(77777777)
